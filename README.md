@@ -87,13 +87,21 @@ Fique à vontade para propor as telas e a usabilidade da maneira que você quise
 
 
 ➡️ Esta etapa é importante para podermos entender qual o seu nível técnico e validar a aderência aos requisitos.
+
 ➡️ O resultado do desafio será utilizado exclusivamente para o processo seletivo.
+
 ➡️ Para solicitar as credenciais da AWS, envie um e-mail para rafael.muller@nextar.com.br com cópia para matheus.macari@nextar.com.br
+
 ➡️ Entendemos que o uso de Inteligências Artificiais é algo corriqueiro e que podem ser grandes aliadas no trabalho, porém, é fundamental que o resultado do desafio entregue por você, reflita quem você é e seus conhecimentos, por tanto solicitamos que caso utilize IAs, que nos envie quais prompts foram utilizados. 
+
 ➡️ As únicas pessoas que terão acesso ao seu desafio são a equipe de Delphi e a Recrutadora.
+
 ➡️ Todo o nosso processo de recrutamento e seleção está em conformidade com a Lei Geral de Proteção de Dados, a LGPD.
+
 ➡️ O prazo de entrega é definido por você a partir da análise do escopo do desafio, por isso, peço que me envie por aqui qual a sua previsão para finalizar o desafio.
+
 ➡️ A entrega é feita através do github, compartilhe seu repositorio com os usuarios rafael.muller@nextar.com.br e matheus.macari@nextar.com.br, também envie um e-mail sinalizando a finalização do desafio
+
 ➡️ Qualquer dúvida que tiver, não hesite em entrar em contato, estamos sempre à disposição!
 
 Desejamos que seja uma experiência interessante para você desenvolver o Desafio Tech, qualquer dúvida ou se precisar de algum auxílio, estamos à disposição! Desejamos boa sorte!
